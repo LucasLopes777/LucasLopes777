@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello guys
 
-<!--
-**LucasLopes777/LucasLopes777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Lucas, I live in :brazil:, I currently work in the banking area as a Java developer.
 
-Here are some ideas to get you started:
+## Connect with me:
+<a href="https://www.linkedin.com/in/lucas-lopes-2b3268138/" target="_blank">
+  <img align="center" alt="Lukas-Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+       style="max-width:100%;">
+ </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"  style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40"  style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"  style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"  style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"  style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="github" width="40" height="40"  style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="github" width="40" height="40"  style="max-width:100%;"></img>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLopes777&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopes777)](https://github.com/LucasLopes777/github-readme-stats)
+
+
