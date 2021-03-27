@@ -1,6 +1,6 @@
 # Hello guys
 
-## I am Lucas, I live in :brazil:, I currently work in the banking area as a Java developer.
+## I am Lucas, I live in Brazil, I currently work in the banking area as a Java developer.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/lucas-lopes-2b3268138/" target="_blank">
