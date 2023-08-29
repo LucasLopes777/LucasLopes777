@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="github" width="40" height="40"  style="max-width:100%;"></img>
 
 ![LucasLopes GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLopes777&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopes777)](https://github.com/LucasLopes777/github-readme-stats)
+
 
 
